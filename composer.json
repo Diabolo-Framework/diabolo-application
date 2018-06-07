@@ -1,15 +1,17 @@
 {
     "name":"diabolo/diabolo-application",
     "description":"a basic application base on diabolo framework.",
+    "keywords":["diabolo","framework","application template","project template"],
+    "homepage":"http://diabolo-framework.com",
+    "license":"MIT",
+    "type": "project",
+    "minimum-stability": "dev",
     "require": {
         "diabolo/diabolo-framework": "^1.0"
     },
     "scripts" : {
-        "pre-install-cmd":[
-            "echo 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'"
-        ],
-        "post-install-cmd":[
-            "echo 'dddddddddddddddddddddddddddddddd'"
-        ]
+        "pre-install-cmd":[],
+        "post-install-cmd":[],
+        "post-create-project-cmd":[]
     }
 }
