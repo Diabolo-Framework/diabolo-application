@@ -9,6 +9,11 @@ return array(
       'enable' => true,
       'default' => true,
       'params' => array(),
+    ),
+    'Deditor' => array(
+      'enable' => true,
+      'default' => true,
+      'params' => array(),
     )
   ),
   'services' => array(
