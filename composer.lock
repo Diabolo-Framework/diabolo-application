@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "0c0a54baa3a9a66adb978a353c439b02",
+    "packages": [
+        {
+            "name": "diabolo/diabolo-framework",
+            "version": "v1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/diabolo-framework/diabolo.git",
+                "reference": "fcc9b6502669ea46957fa8ae1b5775211647acec"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/diabolo-framework/diabolo/zipball/fcc9b6502669ea46957fa8ae1b5775211647acec",
+                "reference": "fcc9b6502669ea46957fa8ae1b5775211647acec",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "X\\": "Framework/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "sige",
+                    "email": "michaelluthor@163.com",
+                    "homepage": "https://github.com/MichaelLuthor",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Yet another easy-to-use framework.",
+            "homepage": "http://diabolo-framework.com",
+            "keywords": [
+                "diabolo",
+                "framework"
+            ],
+            "time": "2019-08-30T07:19:14+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
