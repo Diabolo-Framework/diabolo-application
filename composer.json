@@ -2,10 +2,10 @@
     "name":"diabolo/diabolo-application",
     "description":"a basic application base on diabolo framework.",
     "keywords":["diabolo","framework","application template","project template"],
-    "homepage":"http://diabolo-framework.com",
+    "homepage":"http://diabolo.suanhetao.com",
     "license":"MIT",
     "type": "project",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "diabolo/diabolo-framework": "^1.0"
     },
