@@ -7,7 +7,7 @@
     "type": "project",
     "minimum-stability": "stable",
     "require": {
-        "diabolo/diabolo-framework": "^1.0"
+        
     },
     "scripts" : {
         "pre-install-cmd":[],
